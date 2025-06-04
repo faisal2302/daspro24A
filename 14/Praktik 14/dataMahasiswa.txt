@@ -1,0 +1,10 @@
+
+NIM = 20240040037
+Nama = faisal
+Alamat = jl.siliwangi
+Kelas = TI24
+
+NIM = 20240040066
+Nama = samuel
+Alamat = seijcscsvrs
+Kelas = TI24
